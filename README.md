@@ -1,4 +1,4 @@
-<img react.svg" width="100%">
+(/qcmplusweb/plus/logo192.png "Titre de l'image").
 
 # 🌞🌚 Project Frontend / Backend
 
