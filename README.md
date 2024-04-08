@@ -1,4 +1,4 @@
-![Texte alternatif](qcmplusweb/public/logo192.pngg)
+![Texte alternatif](qcmplusweb/public/logo192.png)
 
 # 🌞🌚 Project Frontend / Backend
 
