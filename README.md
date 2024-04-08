@@ -1,4 +1,4 @@
-(/qcmplusweb/plus/logo192.png "Titre de l'image").
+`qcmplusweb/public/logo192.png`
 
 # 🌞🌚 Project Frontend / Backend
 
